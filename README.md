@@ -20,3 +20,7 @@ This project detects whether an uploaded face image is Real or Fake using Effici
 ## Model
 
 The model is trained using real and fake face datasets and predicts whether an uploaded image is genuine or manipulated.
+
+## Rebuild Test
+
+Rebuild test.
